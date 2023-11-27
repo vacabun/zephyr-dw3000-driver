@@ -10,5 +10,10 @@
 #include "deca_version.h"
 
 
+#include <config_options.h>
+#include <shared_defines.h>
+#include <shared_functions.h>
 
+#include <mac_802_15_4.h>
+#include <key.h>
 #endif
