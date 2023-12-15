@@ -13,7 +13,6 @@
 #ifndef DW3000_SHARE_DEF_H
 #define DW3000_SHARE_DEF_H
 
-#define SPEED_OF_LIGHT   (299702547)
 #define FRAME_LEN_MAX    (127)
 #define FRAME_LEN_MAX_EX (1023)
 #define RXFLEN_MASK    0x0000007FUL /* Receive Frame Length (0 to 127) */
